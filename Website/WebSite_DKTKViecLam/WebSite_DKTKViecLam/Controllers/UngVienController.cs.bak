@@ -110,7 +110,9 @@ namespace WebSite_DKTKViecLam.Controllers
 
             string dateString = col["dkyngaysinhuv"];
             DateTime date;
-			
+
+
+
             string a = col["dkyemailuv"];
             string a1 = col["dkymatkhauuv"];
             string a2 = col["dkytenuv"];
