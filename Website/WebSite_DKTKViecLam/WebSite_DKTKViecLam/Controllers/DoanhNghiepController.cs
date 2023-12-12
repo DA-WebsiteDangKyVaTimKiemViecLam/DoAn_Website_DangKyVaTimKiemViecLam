@@ -312,7 +312,7 @@ namespace WebSite_DKTKViecLam.Controllers
                 dn.Trangthai_DN = tt;
                 db.DOANHNGHIEPs.InsertOnSubmit(dn);
                 db.SubmitChanges();
-                ModelState.AddModelError("Messages", "Đăng ký thành công");
+                ModelState.AddModelError("Messages", "Đăng ký thành công. Vui lòng đợi xét duyệt trong vòng 5 ngày.");
                 return View();
             }
             else
