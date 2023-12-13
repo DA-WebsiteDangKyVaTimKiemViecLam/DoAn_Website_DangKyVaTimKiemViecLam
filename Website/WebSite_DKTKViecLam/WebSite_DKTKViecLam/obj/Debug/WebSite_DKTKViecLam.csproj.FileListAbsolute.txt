@@ -475,6 +475,9 @@ D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKV
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
-D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete

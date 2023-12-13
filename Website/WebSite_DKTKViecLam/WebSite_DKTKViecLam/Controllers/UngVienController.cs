@@ -74,6 +74,7 @@ namespace WebSite_DKTKViecLam.Controllers
                 Session["emailUV"] = uv.Email;
                 Session["SDT"] = uv.SDT;
                 Session["ngaysinh"] = uv.Ngaysinh;
+                Session["linkCV"] = uv.CV_NUT;
                 return RedirectToAction("IndexUngVien", "UngVien");
             }
             else
