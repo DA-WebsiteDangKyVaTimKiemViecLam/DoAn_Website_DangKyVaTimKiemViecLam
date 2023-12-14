@@ -481,3 +481,7 @@ D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKV
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
 D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.xml
