@@ -55,7 +55,7 @@ namespace WebSite_DKTKViecLam.Controllers
             Session["tenbaidang"] = s.TenBD;
             return View(s);
         }
-
+            
         //=========================Register/Login/Logout======================
         [HttpGet]
         public ActionResult DangNhapUV()
@@ -284,7 +284,7 @@ namespace WebSite_DKTKViecLam.Controllers
             {
                 lst = lst.Where(l => l.DOANHNGHIEP.TenDN.ToLower().Contains(congty)).ToList();
             }
-            return View("Index", lst);
+            return View("IndexUngVien", lst);
 
         }
     }
