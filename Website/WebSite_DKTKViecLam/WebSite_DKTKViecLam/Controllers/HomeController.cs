@@ -102,7 +102,7 @@ namespace WebSite_DKTKViecLam.Controllers
 
             if (!string.IsNullOrEmpty(congviec))
             {
-                lst = lst.Where(l => l.TenBD.ToLower().Contains(congviec)).ToList();
+                lst = lst.Where(l => l.Maloai.ToLower().Contains(congviec)).ToList();
             }
             if (!string.IsNullOrEmpty(congty))
             {
