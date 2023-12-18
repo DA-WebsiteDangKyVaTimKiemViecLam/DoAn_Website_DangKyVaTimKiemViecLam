@@ -9,46 +9,6 @@ GO
 /*====================== CREATE DATABASE =======================*/
 /*==============================================================*/
 
---Declare @Primary_Path nvarchar(max), @Secon_Path nvarchar(max), @Log_Path nvarchar(max)
---Select	@Primary_Path = N'D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Database\Primary file',
---		@Secon_Path = N'D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Database\Secondary file',
---		@Log_Path = N'D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Database\Log file'
---DECLARE @SQL nvarchar(max);
---SET @SQL = N'
---CREATE DATABASE QL_TKDKVIECLAM
---ON PRIMARY
---(
---	NAME = QL_TKDKVIECLAM_PRIMARY,
---	FILENAME = ''' + @Primary_Path + '\QL_TKDKVIECLAM_PRIMARY.mdf'',
---	SIZE = 20 MB,
---	MAXSIZE = 50 MB,
---	FILEGROWTH = 10%
---),
---FILEGROUP FG1_QL_TKDKVIECLAM
---(
---	NAME = QL_TKDKVIECLAM_SECONDARY_1_1,
---	FILENAME = ''' + @Secon_Path + '\QL_TKDKVIECLAM_SECONDARY_1_1.ndf'',
---	SIZE = 5 MB,
---	MAXSIZE = 10 MB,
---	FILEGROWTH = 10%
---),
---(
---	NAME = QL_TKDKVIECLAM_SECONDARY_1_2,
---	FILENAME = ''' + @Secon_Path + '\QL_TKDKVIECLAM_SECONDARY_1_2.ndf'',
---	SIZE = 5 MB,
---	MAXSIZE = 10 MB,
---	FILEGROWTH = 10%
---)
---LOG ON
---(
---	NAME = QL_TKDKVIECLAM_LOG,
---	FILENAME = ''' + @Log_Path + '\QL_TKDKVIECLAM_LOG.trn'',
---	SIZE = 10 MB,
---	MAXSIZE = 20 MB,
---	FILEGROWTH = 10%
---)' 
---EXEC (@SQL)
---GO
 
 Create Database QL_TKDKVIECLAM
 Go

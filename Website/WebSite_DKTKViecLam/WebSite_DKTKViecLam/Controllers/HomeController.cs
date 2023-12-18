@@ -79,6 +79,8 @@ namespace WebSite_DKTKViecLam.Controllers
         public ActionResult XemChiTietBaiDang(string id)
         {
             BAIDANG s = db.BAIDANGs.FirstOrDefault(i => i.MaBD == id);
+            Session["mabaidang"] = s.MaBD;
+            Session["tenbaidang"] = s.TenBD;
             return View(s);
         }
 
