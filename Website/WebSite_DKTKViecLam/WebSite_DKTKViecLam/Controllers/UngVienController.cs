@@ -210,8 +210,10 @@ namespace WebSite_DKTKViecLam.Controllers
                 uv.CV_NUT = nut.CV_NUT;
                 uv.Ngaysinh = nut.Ngaysinh;
                 uv.Gioitinh = nut.Gioitinh;
+                List<BAIDANG> u = db.BAIDANGs.ToList();
                 db.SubmitChanges();
-                return View("IndexUngVien");
+                Session["tenUV"] = uv.Hoten;
+                return View("IndexUngVien",u);
             }
         }
 

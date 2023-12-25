@@ -32,17 +32,9 @@
     </div>
     <div class="row">
         <br>
-        <p>
-            <a href="/Home/Index"><input type="button" value="Thêm doanh nghiệp mới" class="button-them "></a>
-
-            @*@Html.ActionLink("Thêm một doanh nghiệp mới ", "Create")*@
-            @*@foreach (var item1 in Model)
-                {
-                    @Html.ActionLink("Edit", "Edit", new { id = item1.MaDN });
-                    @Html.ActionLink("Details", "Details", new { id = item1.MaDN });
-                    @Html.ActionLink("Delete", "Delete", new { id = item1.MaDN });
-                }*@
-        </p>
+        @*<div>
+            <a href="/Admin/Them_DN"><input type="button" value="Thêm doanh nghiệp mới" class="button-them "></a>
+        </div>*@
         <table class="table table-bordered  table-hover" style="border: 3px solid; border-color:black">
             <thead style="color:white">
                 <tr style="background-color: black; text-align: center; font-weight: bold;">
@@ -115,9 +107,6 @@
                                 @Html.DisplayFor(modelItem => item.Trangthai_DN)
                             </td>
                             <td>
-                                @*@Html.ActionLink("Edit", "Edit", new { id = item.MaDN }) |
-                                    @Html.ActionLink("Details", "Details", new { id = item.MaDN }) |
-                                    @Html.ActionLink("Delete", "Delete", new { id = item.MaDN }) ||||||||||||||||||||||||||||*@
                                 <a href="/Admin/Xoa_DoanhNghiep/@item.MaDN"><input type="button" value="Xóa doanh nghiệp" class="button-them "></a>
                             </td>
                         </tr>

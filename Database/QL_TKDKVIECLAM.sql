@@ -244,9 +244,9 @@ GO
 
 --Tai khoan Admin
 INSERT INTO TK_Admin VALUES
-('AD001', N'Trần Minh Quân', N'262 Lũy Bán Bích','0782533332', N'quanvipvip@gmail.com', '12/09/1999',N'Nam', N'ql111'),
-('AD002', N'Lê Thị Minh Thư', N'384 Thống Nhất','0782531112', N'tuyethehe@gmail.com', '26/11/1997',N'Nữ',  N'ql222'),
-('AD003', N'Nguyễn Hoàng Thanh Tuấn', N'408 Nguyễn Tri Phương','0789463332', N'tuan2001@gmail.com', '22/08/2001',N'Nam', N'ql333')
+('AD001', N'Trần Đình Trung Tín', N'262 Lũy Bán Bích','0782533332', N'tin@gmail.com', '12/09/2002',N'Nam', N'ql111'),
+('AD002', N'Hồ Thanh Tùng', N'384 Thống Nhất','0782531112', N'tung@gmail.com', '26/11/2002',N'Nam',  N'ql222'),
+('AD003', N'Nguyễn Lê Hưu Thắng', N'408 Nguyễn Tri Phương','0789463332', N'thang@gmail.com', '22/08/2002',N'Nam', N'ql333')
 GO
 
 
